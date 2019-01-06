@@ -1,12 +1,11 @@
 {
-  "name": "vue-webpack",
+  "name": "pasteImage",
   "version": "1.0.0",
-  "description": "vue-webpack",
+  "description": "paste image",
   "author": "vickiZheng7 <vicki.Zhengwq@gmail.com>",
   "license": "MIT",
-  "private": true,
   "scripts": {
-    "build": "webpack --config build/webpack.prod.js"
+    "build": "webpack --mode=production webpack.config.js"
   },
   "devDependencies": {
     "webpack": "^4.27.1",
