@@ -1,1 +1,3 @@
-# vue+webpack项目
+# pasteImage
+
+Paste image, preview and upload it.
